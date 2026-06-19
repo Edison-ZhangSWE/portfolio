@@ -2,7 +2,7 @@
 
 My personal portfolio site. Built with Next.js, React, Tailwind CSS, and Framer Motion.
 
-🌐 **Live:** _add your Vercel URL here_
+🌐 **Live:** https://portfolio-beta-pink-10.vercel.app
 
 ## Features
 
